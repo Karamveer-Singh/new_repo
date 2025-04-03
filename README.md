@@ -1,2 +1,2 @@
 # new_repo
-Just starting
+Just starting learning
